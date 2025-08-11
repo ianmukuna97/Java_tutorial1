@@ -11,7 +11,8 @@ public class tutorial_2 {
         int y = 4;
         System.out.println(x + y);
 
-        int x = 5, y = 4, z = 50;
+        int a = 5, b = 4, c = 50;
+        System.out.println(a+b+c);
 
     }
 }
